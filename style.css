@@ -1,9 +1,11 @@
 @charset "UTF-8";
 /* CSS Document */
 body {
+	font-size:30px;
+}
+.home {
 	background-image:url("https://263i3m2dw9nnf6zqv39ktpr1-wpengine.netdna-ssl.com/wp-content/uploads/2006/06/Spaatz-JFK-960_640.jpg");
 	background-size:100%;
-	font-size:30px;
 	background-attachment:fixed;
 }
 .mainContent {
